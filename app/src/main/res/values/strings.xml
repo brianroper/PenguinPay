@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PenguinPay</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="enter_phone_hint">Enter phone number</string>
+    <string name="binarian_value_hint">1001001</string>
+    <string name="binarian_currency_text">binarian</string>
+    <string name="total_default_value">0 KES</string>
+
+    <string name="base_url">https://openexchangerates.org/api/</string>
+    <string name="token">1137f5e2135b4e299962fc71ef9767df</string>
+</resources>
